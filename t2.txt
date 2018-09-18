@@ -1,0 +1,1 @@
+n this tutorial we are going to cover following topics: Usage of annotations, how to apply annotations, what predefined annotation types are available in the Java and how to create custom annotations
